@@ -1,0 +1,21 @@
+{
+  "name": "paperplane-main",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eahefnawy/lambda-mailer.git"
+  },
+  "author": "Eslam A. Hefnawy <eahefnawy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eahefnawy/lambda-mailer"
+  },
+  "homepage": "https://github.com/eahefnawy/lambda-mailer",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "aws-sdk": "^2.2.6",
+    "moment": "^2.10.6"
+  }
+}
