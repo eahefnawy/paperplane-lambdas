@@ -1,4 +1,4 @@
-:airplane: PaperPlane
+:airplane: paperplane
 ============
 Ridiculously simple &amp; free backend  for your web forms.
 
