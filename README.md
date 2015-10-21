@@ -7,7 +7,7 @@ Just connect your web form to our API endpoint, and we'll email you form submiss
 ```javascript
 $.ajax({
   type: "POST",
-  url: "http://flypaperplane.com/api",
+  url: "paperplane.eahefnawy.com",
   data: { 
     email: "your@email.com", // your email
     payload: { // Example form data. Get it dynamically from the user!
